@@ -1,0 +1,6 @@
+com/rabbitmqshell/shell/BindingShell.class
+com/rabbitmqshell/model/ShellModel.class
+com/rabbitmqshell/model/ServerPortService.class
+com/rabbitmqshell/pub/Publish.class
+com/rabbitmqshell/shell/UserShell.class
+com/rabbitmqshell/RabbitMQshellApplication.class

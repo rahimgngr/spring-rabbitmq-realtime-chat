@@ -1,0 +1,18 @@
+spring:
+  profiles.active: cli
+  datasource:
+    password: test
+    username: postgres
+    url: jdbc:postgresql://localhost:5432/javadb
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+    generate-ddl: true
+  main:
+    allow-bean-definition-overriding: true
+
+server:
+  port: 8081

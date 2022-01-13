@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="com.fasterxml.jackson.annotation.JsonCreator" />
+      <item index="1" class="java.lang.String" itemvalue="org.springframework.shell.standard.ShellMethod" />
+      <item index="2" class="java.lang.String" itemvalue="org.springframework.shell.standard.ShellMethod" />
+      <item index="3" class="java.lang.String" itemvalue="org.springframework.stereotype.Component" />
+    </list>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/rabbitmq-pub/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-restconfig/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-shell-msg/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-shell/rabbitmq-shell-msg/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-sub/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

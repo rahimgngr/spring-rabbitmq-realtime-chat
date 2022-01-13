@@ -1,0 +1,9 @@
+/home/rahimgng/IdeaProjects/rabbitmq-chat-app/rabbitmq-config/src/main/java/com/rabbitmqchat/config/config/RabbitConfig.java
+/home/rahimgng/IdeaProjects/rabbitmq-chat-app/rabbitmq-config/src/main/java/com/rabbitmqchat/config/model/message/Message.java
+/home/rahimgng/IdeaProjects/rabbitmq-chat-app/rabbitmq-config/src/main/java/com/rabbitmqchat/config/controller/ConfigController.java
+/home/rahimgng/IdeaProjects/rabbitmq-chat-app/rabbitmq-config/src/main/java/com/rabbitmqchat/config/model/config/ConfigModel.java
+/home/rahimgng/IdeaProjects/rabbitmq-chat-app/rabbitmq-config/src/main/java/com/rabbitmqchat/config/AppSettings.java
+/home/rahimgng/IdeaProjects/rabbitmq-chat-app/rabbitmq-config/src/main/java/com/rabbitmqchat/config/service/CustomMessageListener.java
+/home/rahimgng/IdeaProjects/rabbitmq-chat-app/rabbitmq-config/src/main/java/com/rabbitmqchat/config/RabbitMQconfigApplication.java
+/home/rahimgng/IdeaProjects/rabbitmq-chat-app/rabbitmq-config/src/main/java/com/rabbitmqchat/config/service/CustomMessageSender.java
+/home/rahimgng/IdeaProjects/rabbitmq-chat-app/rabbitmq-config/src/main/java/com/rabbitmqchat/config/config/TaskExecutorConfig.java

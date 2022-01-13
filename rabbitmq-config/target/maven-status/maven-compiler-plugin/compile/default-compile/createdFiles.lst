@@ -1,0 +1,11 @@
+com/rabbitmqchat/config/model/config/ConfigModel.class
+META-INF/spring-configuration-metadata.json
+com/rabbitmqchat/config/RabbitMQconfigApplication.class
+com/rabbitmqchat/config/model/message/Message.class
+com/rabbitmqchat/config/AppSettings$Rabbit.class
+com/rabbitmqchat/config/service/CustomMessageListener.class
+com/rabbitmqchat/config/controller/ConfigController.class
+com/rabbitmqchat/config/config/RabbitConfig.class
+com/rabbitmqchat/config/AppSettings.class
+com/rabbitmqchat/config/service/CustomMessageSender.class
+com/rabbitmqchat/config/config/TaskExecutorConfig.class

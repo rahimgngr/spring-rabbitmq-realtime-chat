@@ -1,0 +1,5 @@
+com/rabbitmq/author/RabbitMQauthorApplication.class
+com/rabbitmq/author/HomeController.class
+com/rabbitmq/author/MyUserDetails.class
+com/rabbitmq/author/SecurityConfiguration.class
+com/rabbitmq/author/MyUserDetailsService.class

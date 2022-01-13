@@ -1,0 +1,3 @@
+com/rabbitmqmodel/database/dto/UserDto.class
+com/rabbitmqmodel/database/service/UserService.class
+com/rabbitmqmodel/RabbitMQmodelApplication.class

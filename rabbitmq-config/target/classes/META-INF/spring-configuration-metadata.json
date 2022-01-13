@@ -1,0 +1,63 @@
+{
+  "groups": [
+    {
+      "name": "app.settings",
+      "type": "com.rabbitmqchat.config.AppSettings",
+      "sourceType": "com.rabbitmqchat.config.AppSettings"
+    },
+    {
+      "name": "app.settings.rabbit",
+      "type": "com.rabbitmqchat.config.AppSettings$Rabbit",
+      "sourceType": "com.rabbitmqchat.config.AppSettings",
+      "sourceMethod": "getRabbit()"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.settings.rabbit.exchange",
+      "type": "java.lang.String",
+      "sourceType": "com.rabbitmqchat.config.AppSettings$Rabbit"
+    },
+    {
+      "name": "app.settings.rabbit.host",
+      "type": "java.lang.String",
+      "sourceType": "com.rabbitmqchat.config.AppSettings$Rabbit"
+    },
+    {
+      "name": "app.settings.rabbit.max-concurrent-consumers",
+      "type": "java.lang.Integer",
+      "sourceType": "com.rabbitmqchat.config.AppSettings$Rabbit"
+    },
+    {
+      "name": "app.settings.rabbit.max-connections",
+      "type": "java.lang.Integer",
+      "sourceType": "com.rabbitmqchat.config.AppSettings$Rabbit"
+    },
+    {
+      "name": "app.settings.rabbit.pass",
+      "type": "java.lang.String",
+      "sourceType": "com.rabbitmqchat.config.AppSettings$Rabbit"
+    },
+    {
+      "name": "app.settings.rabbit.port",
+      "type": "java.lang.Integer",
+      "sourceType": "com.rabbitmqchat.config.AppSettings$Rabbit"
+    },
+    {
+      "name": "app.settings.rabbit.queue",
+      "type": "java.lang.String",
+      "sourceType": "com.rabbitmqchat.config.AppSettings$Rabbit"
+    },
+    {
+      "name": "app.settings.rabbit.routing-key",
+      "type": "java.lang.String",
+      "sourceType": "com.rabbitmqchat.config.AppSettings$Rabbit"
+    },
+    {
+      "name": "app.settings.rabbit.user",
+      "type": "java.lang.String",
+      "sourceType": "com.rabbitmqchat.config.AppSettings$Rabbit"
+    }
+  ],
+  "hints": []
+}

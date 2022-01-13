@@ -1,0 +1,5 @@
+com/rabbitmqdatabase/database/entity/User.class
+com/rabbitmqdatabase/RabbitMQdatabaseApplication.class
+com/rabbitmqdatabase/database/repository/UserRepository.class
+com/rabbitmqdatabase/database/service/UserServiceImpl.class
+com/rabbitmqdatabase/database/controller/UserController.class

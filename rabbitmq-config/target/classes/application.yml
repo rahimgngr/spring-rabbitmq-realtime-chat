@@ -1,0 +1,23 @@
+server:
+  port: 0
+
+app.settings:
+  rabbit:
+    host: localhost
+    port: 5672
+    user: test
+    pass: test
+
+    exchange: rabbitmqchat.E.direct.dev.Message
+    queue: rabbitmqchat.Q.dev.MessageSubscriber.Message
+    routingKey: rabbitmqchat.R.direct.dev.Message
+
+    maxConnections: 5
+    maxConcurrentConsumers: 10
+
+logging:
+  level:
+    org.springframework.amqp.rabbit.core.RabbitTemplate: INFO
+
+spring:
+  profiles.active: cli
